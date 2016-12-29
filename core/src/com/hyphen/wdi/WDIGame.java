@@ -8,7 +8,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 public class WDIGame extends ApplicationAdapter {
 	SpriteBatch batch;
-	Texture img;
+	Texture img;	///sss
 	
 	@Override
 	public void create () {
